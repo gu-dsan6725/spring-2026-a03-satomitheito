@@ -1,0 +1,102 @@
+Part 2: Multi-Source RAG with Routing - Results
+Question 1: What was the total revenue for Electronics category in December 2024?
+Route: csv
+Based on the data analysis, the total revenue for the Electronics category in December 2024 was **$142,864.31**.
+
+This figure represents the sum of all revenue generated from Electronics products during the month of December 2024.
+Question 2: Which region had the highest sales volume?
+Route: csv
+Based on the sales data analysis, **Central** region had the highest sales volume in terms of total units sold.
+
+The analysis grouped all sales data by region and calculated the sum of units sold for each region. Among all regions in the dataset, Central region achieved the highest total sales volume when measured by the number of units sold.
+Question 3: What are the key features of the Wireless Bluetooth Headphones?
+Route: text
+Based on the product data, here are the key features of the Wireless Bluetooth Headphones (SKU: ELEC001) from SoundMax Pro:
+
+## Audio & Connectivity Features:
+- **Active Noise Cancellation (ANC)** with transparency mode for situational awareness
+- **Bluetooth 5.2** technology providing stable connectivity up to 30ft range
+- **40mm drivers** with frequency response of 20Hz - 20kHz
+- **Built-in microphone** for calls and voice assistant compatibility
+
+## Battery & Charging:
+- **40-hour battery life** for extended use
+- **Quick charge capability** - 10 minutes of charging provides 3 hours of playback
+
+## Comfort & Design:
+- **Premium memory foam ear cushions** for all-day comfort
+- **Foldable design** for portability
+- **Carrying case included** for protection and storage
+- **Lightweight at 254g**
+
+## Technical Specifications:
+- 32 ohms impedance
+- Professional-grade audio performance
+
+## Customer Satisfaction:
+The headphones have earned a **4.4/5 star rating** from 2,847 reviews, with customers particularly praising the noise cancellation effectiveness, long battery life, and comfort during extended use. Some users noted occasional Bluetooth connectivity issues and that they may feel tight for some head sizes after prolonged wear.
+
+At **$79.99**, these headphones offer premium features like ANC and exceptional battery life at a competitive price point in the electronics category.
+Question 4: What do customers say about the Air Fryer's ease of cleaning?
+Route: text
+Based on the customer reviews for the Air Fryer 5.5L (HOME003), customers consistently praise its **ease of cleaning**. Here's what they specifically say:
+
+**Positive Cleaning Feedback:**
+- **Patricia W.** (5 stars): "Easy to clean and the presets work perfectly."
+- **Lisa G.** (4 stars): "cleanup is a breeze"
+
+**Product Features Supporting Easy Cleaning:**
+The Air Fryer includes a **dishwasher-safe removable basket and pan**, which explains why customers find it so easy to maintain.
+
+**Overall Customer Sentiment:**
+Out of the 5 featured reviews, 2 customers specifically mentioned the cleaning aspect, and both were very positive about it. With an average rating of **4.6/5 stars from 5,234 total reviews**, the ease of cleaning appears to be one of the standout features that customers appreciate about this KitchenPro Elite Air Fryer.
+
+The combination of dishwasher-safe components and the positive customer feedback indicates that cleaning this air fryer is genuinely hassle-free, making it a practical choice for busy families who want healthy cooking without the cleanup burden of traditional frying methods.
+Question 5: Which product has the best customer reviews and how well is it selling?
+Route: both
+Based on the product data available, I can identify the products with the best customer reviews and their sales performance:
+
+## Best Reviewed Products:
+
+**1. Ergonomic Office Chair (OFFC001) - 4.6/5 stars**
+- Brand: ComfortZone Pro
+- Price: $249.99
+- Reviews: 1,876 customer reviews
+- Category: Office Supplies
+
+**2. Air Fryer 5.5L (HOME003) - 4.6/5 stars** 
+- Brand: KitchenPro Elite
+- Price: $129.99
+- Reviews: 5,234 customer reviews
+- Category: Home & Kitchen
+
+**3. Vitamin C Serum (BEAU001) - 4.3/5 stars**
+- Brand: GlowLab Skincare
+- Price: $28.99
+- Reviews: 8,567 customer reviews
+- Category: Beauty & Personal Care
+
+## Sales Performance Analysis:
+
+While both the Ergonomic Office Chair and Air Fryer share the highest rating of 4.6/5 stars, the **Air Fryer appears to be selling better** based on several indicators:
+
+- **Higher review volume**: 5,234 reviews vs 1,876 for the office chair
+- **Lower price point**: $129.99 makes it more accessible than the $249.99 chair
+- **Broader appeal**: Kitchen appliances typically have wider market appeal than office furniture
+
+The Vitamin C Serum, while having a slightly lower rating (4.3/5), shows **exceptional sales volume** with 8,567 reviews - the highest among all products. This suggests very strong sales performance, likely driven by its affordable $28.99 price point and the popularity of skincare products.
+
+**Recommendation**: The Air Fryer (HOME003) represents the best combination of excellent customer satisfaction (4.6/5) and strong sales performance, making it your top-performing product overall.
+Question 6: I want a product for fitness that is highly rated and sells well in the West region. What do you recommend?
+Route: both
+Based on the data analysis of the West region, I recommend the **Yoga Mat Premium** for fitness. This product stands out as the top-selling fitness item in the Sports & Outdoors category in the West region.
+
+The analysis shows that among all fitness-related products in the West region, the Yoga Mat Premium has the highest combination of:
+- **Units sold** (leading sales volume)
+- **Total revenue** (strong revenue performance)
+
+This makes it both a popular and commercially successful fitness product in your target region. The fact that it leads in both sales metrics indicates strong customer demand and satisfaction in the West region market.
+
+While I don't have the specific rating data for the Yoga Mat Premium in the provided context, its position as the #1 selling fitness product in the West region suggests it's meeting customer expectations and performing well in the market.
+
+For fitness enthusiasts in the West region, the Yoga Mat Premium appears to be the most proven choice based on actual sales performance data.
